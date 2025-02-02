@@ -13,4 +13,4 @@ Chris
 
 Ethan
 ---------------------------------------
-
+Hi, I am a computer science major and I like going to the gym and playing games.
