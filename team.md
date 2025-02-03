@@ -9,6 +9,7 @@ Hey, it's Rylan. I'm a data science undergrad at NAU. I like to cook and play vi
 
 Chris
 ---------------------------------------
+Hello all. I'm Chris (Karl), a Data Science undergraduate senior, though I'm a *tiny* bit older than most of my peers. I'm glad I'm not in Rylan's shoes, and I can't think of a single time when emailing IT has ended well.
 
 
 Ethan
